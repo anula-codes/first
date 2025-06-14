@@ -1,0 +1,26 @@
+body {
+    background-color: #fef6e4;
+    font-family: Arial, sans-serif;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  }
+  
+  h1 {
+    color: #ff5c8a;
+  }
+  
+  p {
+    color: #333;
+    margin-top: 10px;
+  }  
